@@ -1,1 +1,1 @@
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+Gmail: phmvu2912@gmail.com
